@@ -1,16 +1,15 @@
-### Hi there 👋
+# Ezequiel Cortés — @codelando
 
-<!--
-**codelando/codelando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hola, soy Ezequiel aunque también me dicen _Lando_. Tengo más de 15 años dando vueltas por el universo tecnológico. Actualmente soy 🤖 Lider técnico en 🏢 Izel Networks y en otro 🕴️ _proyecto ultrasecreto_. Antes de eso hice de todo 🤹.
 
-Here are some ideas to get you started:
+Tambien soy docente del curso de Desarrollo Web en 🏫 Digital House y orador ocasional de dos temas que me apasionan: la tecnología y la educación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Superpoderes
+🤯 Curiosidad inagotable<br>
+💡 Experto en 5 minutos<br>
+🤓 Explicador profesional<br>
+🧩 Resolver y organizar<br>
+👁️ Ojo para el detalle
+
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/ezequiel-cortes/
