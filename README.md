@@ -1,8 +1,8 @@
 # Ezequiel Cortés — @codelando
 
-Hola, soy Ezequiel aunque también me dicen _Lando_. Tengo más de 15 años dando vueltas por el universo tecnológico. Actualmente soy 🤖 Lider técnico en 🏢 Izel Networks y en otro 🕴️ _proyecto ultrasecreto_. Antes de eso hice de todo 🤹.
+Hola, soy Ezequiel aunque también me dicen _Lando_. Tengo más de 20 años dando vueltas por el universo tecnológico. Actualmente soy 🤖 Consutor en 🏢 Izel Networks y en otros 🕴️ _proyectos ultrasecretos_. Antes de eso hice de todo 🤹.
 
-Tambien soy docente del curso de Desarrollo Web en 🏫 Digital House y orador ocasional de dos temas que me apasionan: la tecnología y la educación.
+Tambien fui docente y creador de contenido para el curso de Desarrollo Web en 🏫 Digital House, Coordinador de la carrera Certified Tech Developer y orador ocasional de dos temas que me apasionan: la tecnología y la educación.
 
 ## Superpoderes
 🤯 Curiosidad inagotable<br>
